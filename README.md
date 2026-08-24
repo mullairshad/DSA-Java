@@ -21,6 +21,7 @@ My Java DSA and LeetCode solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/mullairshad/DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mullairshad/DSA-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/mullairshad/DSA-Java/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mullairshad/DSA-Java/tree/main/0283-move-zeroes/) | Easy |
@@ -42,4 +43,8 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/mullairshad/DSA-Java/tree/main/0136-single-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/mullairshad/DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
