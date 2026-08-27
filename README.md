@@ -27,6 +27,7 @@ My Java DSA and LeetCode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mullairshad/DSA-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/mullairshad/DSA-Java/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mullairshad/DSA-Java/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/mullairshad/DSA-Java/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/mullairshad/DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/mullairshad/DSA-Java/tree/main/0344-reverse-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
