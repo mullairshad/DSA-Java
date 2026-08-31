@@ -16,11 +16,13 @@ My Java DSA and LeetCode solutions
 | [1470-shuffle-the-array](https://github.com/mullairshad/DSA-Java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mullairshad/DSA-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mullairshad/DSA-Java/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mullairshad/DSA-Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mullairshad/DSA-Java/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mullairshad/DSA-Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +70,8 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mullairshad/DSA-Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
