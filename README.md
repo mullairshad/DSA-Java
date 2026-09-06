@@ -7,6 +7,7 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mullairshad/DSA-Java/tree/main/0001-two-sum/) | Easy |
+| [0066-plus-one](https://github.com/mullairshad/DSA-Java/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/mullairshad/DSA-Java/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mullairshad/DSA-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
@@ -44,6 +45,7 @@ My Java DSA and LeetCode solutions
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/mullairshad/DSA-Java/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/mullairshad/DSA-Java/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/mullairshad/DSA-Java/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/mullairshad/DSA-Java/tree/main/0189-rotate-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
