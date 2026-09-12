@@ -27,6 +27,7 @@ My Java DSA and LeetCode solutions
 | [0001-two-sum](https://github.com/mullairshad/DSA-Java/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mullairshad/DSA-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/mullairshad/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mullairshad/DSA-Java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mullairshad/DSA-Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -60,6 +61,7 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/mullairshad/DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/mullairshad/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/mullairshad/DSA-Java/tree/main/0344-reverse-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mullairshad/DSA-Java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mullairshad/DSA-Java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -71,6 +73,7 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/mullairshad/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mullairshad/DSA-Java/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
