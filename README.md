@@ -16,6 +16,7 @@ My Java DSA and LeetCode solutions
 | [0283-move-zeroes](https://github.com/mullairshad/DSA-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mullairshad/DSA-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mullairshad/DSA-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mullairshad/DSA-Java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1470-shuffle-the-array](https://github.com/mullairshad/DSA-Java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mullairshad/DSA-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mullairshad/DSA-Java/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -89,6 +90,7 @@ My Java DSA and LeetCode solutions
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mullairshad/DSA-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mullairshad/DSA-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mullairshad/DSA-Java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mullairshad/DSA-Java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mullairshad/DSA-Java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mullairshad/DSA-Java/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
