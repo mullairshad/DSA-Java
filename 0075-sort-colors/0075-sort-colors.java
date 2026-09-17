@@ -4,14 +4,12 @@ class Solution {
         int left=0;
         int mid=0;
         int right=n-1;
-        int temp;
         while(mid<=right)
         {
             if(nums[mid]==0)
             {
-                temp=nums[mid];
                 nums[mid]=nums[left];
-                nums[left]=temp;
+                nums[left]=0;
                 left++;
                 mid++;
             }
@@ -21,10 +19,9 @@ class Solution {
             }
             else
             {
-                temp=nums[right];
-                nums[right]=nums[mid];
-                nums[mid]=temp;
-                right--;
+               nums[mid]=nums[right];
+               nums[right]=2;
+               right--;
             }
         }
     }
