@@ -8,6 +8,7 @@ My Java DSA and LeetCode solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mullairshad/DSA-Java/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/mullairshad/DSA-Java/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/mullairshad/DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/mullairshad/DSA-Java/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mullairshad/DSA-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
@@ -35,6 +36,7 @@ My Java DSA and LeetCode solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/mullairshad/DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/mullairshad/DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mullairshad/DSA-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/mullairshad/DSA-Java/tree/main/0189-rotate-array/) | Medium |
@@ -75,6 +77,7 @@ My Java DSA and LeetCode solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/mullairshad/DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/mullairshad/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mullairshad/DSA-Java/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -97,4 +100,12 @@ My Java DSA and LeetCode solutions
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mullairshad/DSA-Java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mullairshad/DSA-Java/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mullairshad/DSA-Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/mullairshad/DSA-Java/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/mullairshad/DSA-Java/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
