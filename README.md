@@ -53,6 +53,7 @@ My Java DSA and LeetCode solutions
 | [0009-palindrome-number](https://github.com/mullairshad/DSA-Java/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/mullairshad/DSA-Java/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/mullairshad/DSA-Java/tree/main/0189-rotate-array/) | Medium |
+| [0507-perfect-number](https://github.com/mullairshad/DSA-Java/tree/main/0507-perfect-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
