@@ -7,6 +7,7 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mullairshad/DSA-Java/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/mullairshad/DSA-Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/mullairshad/DSA-Java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/mullairshad/DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/mullairshad/DSA-Java/tree/main/0136-single-number/) | Easy |
@@ -74,6 +75,7 @@ My Java DSA and LeetCode solutions
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/mullairshad/DSA-Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -109,4 +111,8 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/mullairshad/DSA-Java/tree/main/0075-sort-colors/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/mullairshad/DSA-Java/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
