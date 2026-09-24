@@ -19,6 +19,7 @@ My Java DSA and LeetCode solutions
 | [0485-max-consecutive-ones](https://github.com/mullairshad/DSA-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mullairshad/DSA-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mullairshad/DSA-Java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/mullairshad/DSA-Java/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/mullairshad/DSA-Java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mullairshad/DSA-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/mullairshad/DSA-Java/tree/main/1732-find-the-highest-altitude/) | Easy |
