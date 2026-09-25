@@ -58,6 +58,7 @@ My Java DSA and LeetCode solutions
 | [0066-plus-one](https://github.com/mullairshad/DSA-Java/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/mullairshad/DSA-Java/tree/main/0189-rotate-array/) | Medium |
 | [0507-perfect-number](https://github.com/mullairshad/DSA-Java/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/mullairshad/DSA-Java/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,8 +120,17 @@ My Java DSA and LeetCode solutions
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/mullairshad/DSA-Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mullairshad/DSA-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/mullairshad/DSA-Java/tree/main/0509-fibonacci-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/mullairshad/DSA-Java/tree/main/1672-richest-customer-wealth/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/mullairshad/DSA-Java/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/mullairshad/DSA-Java/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
