@@ -10,6 +10,7 @@ My Java DSA and LeetCode solutions
 | [0053-maximum-subarray](https://github.com/mullairshad/DSA-Java/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/mullairshad/DSA-Java/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/mullairshad/DSA-Java/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mullairshad/DSA-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/mullairshad/DSA-Java/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mullairshad/DSA-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
@@ -117,6 +118,7 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/mullairshad/DSA-Java/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mullairshad/DSA-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
