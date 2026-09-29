@@ -16,6 +16,7 @@ My Java DSA and LeetCode solutions
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/mullairshad/DSA-Java/tree/main/0189-rotate-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/mullairshad/DSA-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mullairshad/DSA-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mullairshad/DSA-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mullairshad/DSA-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -35,6 +36,7 @@ My Java DSA and LeetCode solutions
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mullairshad/DSA-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/mullairshad/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mullairshad/DSA-Java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mullairshad/DSA-Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -50,6 +52,7 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mullairshad/DSA-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +60,7 @@ My Java DSA and LeetCode solutions
 | [0009-palindrome-number](https://github.com/mullairshad/DSA-Java/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/mullairshad/DSA-Java/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/mullairshad/DSA-Java/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/mullairshad/DSA-Java/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/mullairshad/DSA-Java/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
@@ -68,6 +72,7 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/mullairshad/DSA-Java/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +92,7 @@ My Java DSA and LeetCode solutions
 | [0075-sort-colors](https://github.com/mullairshad/DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/mullairshad/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mullairshad/DSA-Java/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
