@@ -15,6 +15,7 @@ My Java DSA and LeetCode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mullairshad/DSA-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/mullairshad/DSA-Java/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/mullairshad/DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mullairshad/DSA-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mullairshad/DSA-Java/tree/main/0283-move-zeroes/) | Easy |
@@ -34,6 +35,7 @@ My Java DSA and LeetCode solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mullairshad/DSA-Java/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/mullairshad/DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mullairshad/DSA-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/mullairshad/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
@@ -91,6 +93,7 @@ My Java DSA and LeetCode solutions
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/mullairshad/DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/mullairshad/DSA-Java/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/mullairshad/DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/mullairshad/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mullairshad/DSA-Java/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
