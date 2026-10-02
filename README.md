@@ -21,6 +21,7 @@ My Java DSA and LeetCode solutions
 | [0283-move-zeroes](https://github.com/mullairshad/DSA-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mullairshad/DSA-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mullairshad/DSA-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/mullairshad/DSA-Java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/mullairshad/DSA-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mullairshad/DSA-Java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mullairshad/DSA-Java/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -58,6 +59,7 @@ My Java DSA and LeetCode solutions
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mullairshad/DSA-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/mullairshad/DSA-Java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ My Java DSA and LeetCode solutions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/mullairshad/DSA-Java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/mullairshad/DSA-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mullairshad/DSA-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/mullairshad/DSA-Java/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -117,6 +120,7 @@ My Java DSA and LeetCode solutions
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mullairshad/DSA-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mullairshad/DSA-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/mullairshad/DSA-Java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mullairshad/DSA-Java/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mullairshad/DSA-Java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mullairshad/DSA-Java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
