@@ -29,6 +29,7 @@ My Java DSA and LeetCode solutions
 | [1672-richest-customer-wealth](https://github.com/mullairshad/DSA-Java/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/mullairshad/DSA-Java/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mullairshad/DSA-Java/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1929-concatenation-of-array](https://github.com/mullairshad/DSA-Java/tree/main/1929-concatenation-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mullairshad/DSA-Java/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mullairshad/DSA-Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
@@ -171,4 +172,8 @@ My Java DSA and LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mullairshad/DSA-Java/tree/main/0020-valid-parentheses/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/mullairshad/DSA-Java/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
