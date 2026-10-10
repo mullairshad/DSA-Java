@@ -19,9 +19,9 @@ class Solution {
             }
             else
             {
-               nums[mid]=nums[right];
-               nums[right]=2;
-               right--;
+                nums[mid]=nums[right];
+                nums[right]=2;
+                right--;   
             }
         }
     }
