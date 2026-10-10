@@ -21,6 +21,7 @@ My Java DSA and LeetCode solutions
 | [0219-contains-duplicate-ii](https://github.com/mullairshad/DSA-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mullairshad/DSA-Java/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mullairshad/DSA-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mullairshad/DSA-Java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mullairshad/DSA-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/mullairshad/DSA-Java/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -44,6 +45,7 @@ My Java DSA and LeetCode solutions
 | [0219-contains-duplicate-ii](https://github.com/mullairshad/DSA-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/mullairshad/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mullairshad/DSA-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mullairshad/DSA-Java/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mullairshad/DSA-Java/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -58,11 +60,13 @@ My Java DSA and LeetCode solutions
 | [0189-rotate-array](https://github.com/mullairshad/DSA-Java/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/mullairshad/DSA-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/mullairshad/DSA-Java/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mullairshad/DSA-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mullairshad/DSA-Java/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mullairshad/DSA-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/mullairshad/DSA-Java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -110,6 +114,7 @@ My Java DSA and LeetCode solutions
 | [0217-contains-duplicate](https://github.com/mullairshad/DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/mullairshad/DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/mullairshad/DSA-Java/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mullairshad/DSA-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mullairshad/DSA-Java/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
